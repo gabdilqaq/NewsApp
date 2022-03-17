@@ -14,7 +14,7 @@ There are page with three recycler view for watсhing the list of tv shows.
 
 ## Demo
 
-![ezgif-7-bc563364ed](https://user-images.githubusercontent.com/75258206/154094436-f06ef065-70a9-4a34-8d70-76088d96c1ae.gif)
+[ezgif-5-2687b8a94e](https://user-images.githubusercontent.com/75258206/158795227-606f3bdf-269e-48e9-89bf-bdabe3f6907a.gif)
 
 
 ## Technologies
