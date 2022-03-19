@@ -5,11 +5,11 @@ Mobile application written of Android
 
 ## Description of project
 
-A simple project for watching and reading information about tv shows from the TV Show API
+A simple project for watching and reading information about breaking news from the Breaking News API
 
 ## Structure of App
 
-There are page with three recycler view for watсhing the list of tv shows.
+There are page with bottom navigation view with the screens: breaking news, saved news, and for searching news.
 
 
 ## Demo
@@ -25,4 +25,8 @@ There are page with three recycler view for watсhing the list of tv shows.
 * ViewBinding
 * Coroutine
 * LiveData
-* Dagger-Hilt
+* Navigation Components 
+* Room Database
+* Webview
+* Pagination
+* Glide
